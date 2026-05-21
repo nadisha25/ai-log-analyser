@@ -1,5 +1,10 @@
 # AI-Powered Audit Log Analyzer
 
+## 🌐 Live Dashboard
+👉 [Click here to view the live dashboard](https://ai-log-analyser-bvu7ugfkxgcwrhak4pyynv.streamlit.app/)
+
+---
+
 An end-to-end AI security pipeline that ingests server logs, detects anomalies, classifies risks using an LLM, and auto-generates professional PDF reports and a live dashboard.
 
 Built by a first-year Data Science and AI student as a portfolio project demonstrating real-world data engineering, AI integration, and automated reporting.
