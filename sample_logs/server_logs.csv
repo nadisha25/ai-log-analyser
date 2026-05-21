@@ -1,0 +1,18 @@
+timestamp,ip_address,user,action,status_code,details
+2024-01-15 08:23:11,192.168.1.10,alice,LOGIN,200,successful login
+2024-01-15 08:45:02,192.168.1.10,alice,FILE_ACCESS,200,accessed report_q4.pdf
+2024-01-15 09:12:33,10.0.0.55,unknown,LOGIN,401,invalid password
+2024-01-15 09:12:45,10.0.0.55,unknown,LOGIN,401,invalid password
+2024-01-15 09:12:58,10.0.0.55,unknown,LOGIN,401,invalid password
+2024-01-15 09:13:10,10.0.0.55,unknown,LOGIN,401,invalid password
+2024-01-15 09:13:22,10.0.0.55,unknown,LOGIN,401,invalid password
+2024-01-15 10:30:00,192.168.1.22,bob,LOGIN,200,successful login
+2024-01-15 10:45:00,192.168.1.22,bob,FILE_DELETE,200,deleted backup_old.zip
+2024-01-15 02:17:44,45.33.32.156,admin,LOGIN,200,successful login
+2024-01-15 02:18:01,45.33.32.156,admin,FILE_DOWNLOAD,200,downloaded users_database.csv
+2024-01-15 02:18:45,45.33.32.156,admin,FILE_DOWNLOAD,200,downloaded salary_data.xlsx
+2024-01-15 11:00:00,192.168.1.10,alice,LOGOUT,200,session ended
+2024-01-15 14:22:10,172.16.0.99,carol,LOGIN,200,successful login
+2024-01-15 14:55:00,172.16.0.99,carol,FILE_ACCESS,403,permission denied on payroll.xlsx
+2024-01-15 23:58:12,203.0.113.42,unknown,LOGIN,401,invalid password
+2024-01-15 23:58:30,203.0.113.42,unknown,LOGIN,401,invalid password
