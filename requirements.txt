@@ -1,1 +1,6 @@
-pandas 
+pandas
+groq
+python-dotenv
+fpdf2
+streamlit
+matplotlib
